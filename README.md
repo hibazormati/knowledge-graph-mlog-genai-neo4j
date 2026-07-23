@@ -97,14 +97,11 @@ The graph models semantic relationships such as:
 ```
 .
 ├── README.md
-├── LICENSE
 ├── poster/
 │   └── MLoG_GenAI_Poster.pdf
 │
 ├── cypher/
-│   ├── create_graph.cypher
-│   ├── insert_data.cypher
-│   └── queries.cypher
+│   
 │
 ├── screenshots/
 │   ├── graph_overview.png
